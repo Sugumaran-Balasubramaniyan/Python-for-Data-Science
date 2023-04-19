@@ -19,10 +19,10 @@ To Clone:
 git clone https://github.com/yourusername/datascience-python.git
 
 Usage: 
-To use the notebooks in this repository, navigate to the directory where you cloned the repository and open Jupyter notebook by running the following command:
+To use the notebooks in this repository, navigate to the directory where you cloned the repository and open Jupyter notebook.
 
 
-Run the following code in a Terminal: 
+To open jupyter notebook in a Terminal: 
 jupyter notebook
 
 This will open Jupyter notebook in your default web browser. From here, you can navigate to the notebooks directory and open any of the notebooks to explore the code examples and run the cells.

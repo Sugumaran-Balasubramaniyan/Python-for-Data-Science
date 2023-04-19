@@ -18,19 +18,19 @@ To use the notebooks and code examples in this repository, you will need to have
 To Clone: 
 git clone https://github.com/yourusername/datascience-python.git
 
-Usage
+Usage: 
 To use the notebooks in this repository, navigate to the directory where you cloned the repository and open Jupyter notebook by running the following command:
 
 
-Run the following code in a Terminal:
+Run the following code in a Terminal: 
 jupyter notebook
 
 This will open Jupyter notebook in your default web browser. From here, you can navigate to the notebooks directory and open any of the notebooks to explore the code examples and run the cells.
 
-Contributing:
+Contributing: 
 If you find an error or would like to contribute to this repository, feel free to submit a pull request. Contributions are always welcome!
 
-License:
+License: 
 This repository is licensed under the MIT license. See LICENSE.md for more information.
 
 

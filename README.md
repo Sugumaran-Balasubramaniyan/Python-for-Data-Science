@@ -15,8 +15,6 @@ Neural Networks and Deep Learning
 Installation
 To use the notebooks and code examples in this repository, you will need to have Python 3 installed on your system. You can install Python 3 using the Anaconda distribution, which also comes with the Jupyter notebook environment. Once you have installed Anaconda, you can clone this repository using Git:
 
-To Clone: 
-git clone https://github.com/yourusername/datascience-python.git
 
 Usage: 
 To use the notebooks in this repository, navigate to the directory where you cloned the repository and open Jupyter notebook.

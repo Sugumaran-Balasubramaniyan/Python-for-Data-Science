@@ -25,6 +25,9 @@ jupyter notebook
 
 This will open Jupyter notebook in your default web browser. From here, you can navigate to the notebooks directory and open any of the notebooks to explore the code examples and run the cells.
 
+Credit: 
+Thanks to Prof. François Bangui for sharing and teaching me this valuable resource.
+
 Contributing: 
 If you find an error or would like to contribute to this repository, feel free to submit a pull request. Contributions are always welcome!
 

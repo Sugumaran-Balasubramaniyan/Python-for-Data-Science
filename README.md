@@ -23,7 +23,7 @@ To use the notebooks in this repository, navigate to the directory where you clo
 To open jupyter notebook in a Terminal: 
 jupyter notebook
 
-This will open Jupyter notebook in your default web browser. From here, you can navigate to the notebooks directory and open any of the notebooks to explore the code examples and run the cells.
+This will open Jupyter notebook in your default web browser. From here, you can navigate to the notebooks directory and open any of the notebooks to explore code examples and run the cells.
 
 Credit: 
 Thanks to Prof. François Bangui for sharing and teaching me this valuable resource.
